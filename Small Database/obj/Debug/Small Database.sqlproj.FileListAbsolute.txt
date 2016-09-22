@@ -1,0 +1,9 @@
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\bin\Debug\Small Database.dacpac
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\bin\Debug\Small_Database.dll
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\bin\Debug\Small_Database.pdb
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\obj\Debug\Model.xml
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\obj\Debug\refactor.xml
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\obj\Debug\postdeploy.sql
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\obj\Debug\predeploy.sql
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\obj\Debug\Small_Database.dll
+c:\users\bundayy\documents\visual studio 2013\Projects\Small Database\Small Database\obj\Debug\Small_Database.pdb
